@@ -1,3 +1,5 @@
+//Base64地址：aHR0cHM6Ly9tbDUxNzcuZ2l0aHViLmlvL0pNUy50eHQ
+
 港澳台,#genre#
 日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 港澳台, https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
@@ -11,59 +13,36 @@
 东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
 三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
 TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+AL Jazeera FHD,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 民视新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 四川影视文艺,http://182.151.211.171:808/hls/53/index.m3u8
- 河南新闻
-http://61.163.111.46/tvcdn.stream3.hndt.com/tv/0325f1d561144613b9c90adc64ddbdc8_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视", CCTV1
-http://39.135.55.105:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1&IASHttpSessionId=OTT2729820220609130135294923
-#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="港澳台", AL Jazeera FHD
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
- 库尔勒二套
-http://202.107.188.139:5002/kuerle2_hdcq.m3u8?token=guoziyun
- 乌鲁木齐妇女儿童
-http://202.107.188.139:5002/utv6_hdgq.m3u8?token=guoziyun
- 河南电视剧
-http://61.163.111.46/tvcdn.stream3.hndt.com/tv/af5c15b361b647ec8549eaae815916a0_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
- 增城综合
-http://202.168.164.38:8083/videos/live/19/27/QEQXMtU5AUpwo/QEQXMtU5AUpwo.m3u8
- 伊宁维吾尔语
-http://222.81.61.37:9898/out_2/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视", CCTV6
-http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
- 巴州维吾尔语
-http://202.107.188.139:5002/bazhou3_hdgq.m3u8?token=guoziyun
-#EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="四川", 四川妇女儿童
-http://182.151.211.171:808/hls/55/index.m3u8
-#EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="四川", 四川新闻频道
-http://182.151.211.171:808/hls/52/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视", 东方卫视蓝光
-http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
- 昆明影视综艺
-http://wshls.live.migucloud.com/live/KYLNJWFD_C0_2/playlist.m3u8
- 昆明经济生活
-http://wshls.live.migucloud.com/live/JT9JEQ54_C0_2/playlist.m3u8
- 陈慧娴-千千阙歌
-http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
- 孟庭苇-红雨
-http://vodcdn.video.taobao.com/oss/ali-video/a816f01838e07c4dac5f8612331bca63/video.m3u8
- 陈慧娴-人生何处不相逢
-http://vodcdn.video.taobao.com/oss/ali-video/e45ed62546d055938577994f0c16d2e0/video.m3u8
- 陈慧娴-归来吧
-http://vodcdn.video.taobao.com/oss/ali-video/c89589fd5809cf6e2f1a4d7a52023733/video.m3u8
- 毛宁/杨钰莹-心雨
-http://vodcdn.video.taobao.com/oss/ali-video/0191a1eb6017684a3641a51d32c9633a/video.m3u8
- 王菲-爱与痛的边缘
-http://vodcdn.video.taobao.com/oss/ali-video/f5e79c70df75bdccf2714ed788764f58/video.m3u8
- 王菲-容易受伤的女人(国语)
-http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海", 纪实人文
-http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
- 河南乡村
-http://61.163.111.46/tvcdn.stream3.hndt.com/tv/4ba68fd1b8b442d7a408a260592a5592_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视", CCTV14
-http://39.135.138.59:18890/PLTV/88888910/224/3221225639/index.m3u8
+河南新闻,http://61.163.111.46/tvcdn.stream3.hndt.com/tv/0325f1d561144613b9c90adc64ddbdc8_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+
+央视
+CCTV1,http://39.135.55.105:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1&IASHttpSessionId=OTT2729820220609130135294923
+库尔勒二套,http://202.107.188.139:5002/kuerle2_hdcq.m3u8?token=guoziyun
+乌鲁木齐妇女儿童,http://202.107.188.139:5002/utv6_hdgq.m3u8?token=guoziyun
+河南电视剧,http://61.163.111.46/tvcdn.stream3.hndt.com/tv/af5c15b361b647ec8549eaae815916a0_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+增城综合,http://202.168.164.38:8083/videos/live/19/27/QEQXMtU5AUpwo/QEQXMtU5AUpwo.m3u8
+伊宁维吾尔语,http://222.81.61.37:9898/out_2/index.m3u8
+CCTV6,http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
+巴州维吾尔语,http://202.107.188.139:5002/bazhou3_hdgq.m3u8?token=guoziyun
+四川妇女儿童,http://182.151.211.171:808/hls/55/index.m3u8
+四川新闻频道,http://182.151.211.171:808/hls/52/index.m3u8
+东方卫视蓝光,http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
+昆明影视综艺,http://wshls.live.migucloud.com/live/KYLNJWFD_C0_2/playlist.m3u8
+昆明经济生活,http://wshls.live.migucloud.com/live/JT9JEQ54_C0_2/playlist.m3u8
+陈慧娴-千千阙歌,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
+孟庭苇-红雨,http://vodcdn.video.taobao.com/oss/ali-video/a816f01838e07c4dac5f8612331bca63/video.m3u8
+陈慧娴-人生何处不相逢,http://vodcdn.video.taobao.com/oss/ali-video/e45ed62546d055938577994f0c16d2e0/video.m3u8
+陈慧娴-归来吧,http://vodcdn.video.taobao.com/oss/ali-video/c89589fd5809cf6e2f1a4d7a52023733/video.m3u8
+毛宁/杨钰莹-心雨,http://vodcdn.video.taobao.com/oss/ali-video/0191a1eb6017684a3641a51d32c9633a/video.m3u8
+王菲-爱与痛的边缘,http://vodcdn.video.taobao.com/oss/ali-video/f5e79c70df75bdccf2714ed788764f58/video.m3u8
+王菲-容易受伤的女人(国语),http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
+纪实人文,http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
+河南乡村,http://61.163.111.46/tvcdn.stream3.hndt.com/tv/4ba68fd1b8b442d7a408a260592a5592_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+CCTV14,http://39.135.138.59:18890/PLTV/88888910/224/3221225639/index.m3u8
 #EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="北京", 北京生活
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="北京", 北京新闻
