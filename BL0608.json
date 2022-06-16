@@ -211,9 +211,9 @@
       "group": "redirect",
       "channels": [
         {
-          "name": "redirect",
+          "name": "live",
           "urls": [
-            "网上自己找"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9nMi5wdWIvbGluay9tL010di50eHQ="
           ]
         }
       ]
@@ -444,6 +444,7 @@
       ]
     }
   ],
+  "wsllpaper":"https://api.btstu.cn/sjbz/?lx=dongman"
   "ads": [
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
