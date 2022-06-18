@@ -597,5 +597,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1080",
-  "spider": "clan://0/jar/0618.jar"
+  "spider": "https://ml5177.github.io/220618.jar"
 }
