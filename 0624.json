@@ -149,46 +149,6 @@
       "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXB/鸭奈飞.json"
     },
     {
-      "key": "csp_biubiu_达达龟",
-      "name": "🐢达达龟",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXB/达达龟.json"
-    },
-    {
-      "key": "csp_xpath_jbb",
-      "name": "🐬剧白白",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXP/jubaibai.json"
-    },
-    {
-      "key": "csp_XBiubiubiubiu_ysgc",
-      "name": "🏭工厂",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXB/影视工厂.json"
-    },
-    {
-      "key": "csp_xpath_网络",
-      "name": "🧂六度",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/6dutv.js"
-    },
-    {
       "key": "csp_appysv2_网络",
       "name": "🦌爱酷",
       "type": 3,
@@ -197,16 +157,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
-    },
-    {
-      "key": "csp_appysv2_网络",
-      "name": "🎬迪迪",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://dd88.icu:6080/xgapp.php/v2/"
     },
     {
       "key": "腾讯官网",
@@ -272,7 +222,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXP/libv.json"
+      "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b14-libvio.js"
     },
     {
       "key": "csp_xpath_A33",
@@ -282,7 +232,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXP/MTV.json"
+      "ext": "https://gitea.com/99/x/raw/branch/main/mtv"
     },
     {
       "key": "csp_xpath_qiumi",
@@ -292,7 +242,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXP/球迷.json"
+      "ext": "https://gitea.com/99/x/raw/branch/main/516-qiumi.js"
     },
     {
       "key": "csp_xpath",
@@ -302,7 +252,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXP/huya.json"
+      "ext": "https://gitea.com/99/x/raw/branch/main/huya.js"
     },
     {
       "key": "csp_GitCafe",
