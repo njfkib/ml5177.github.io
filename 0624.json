@@ -1,6 +1,6 @@
 { 
-//"spider":"https://ml5177.github.io/0608.jar",
-"spider":"https://cdn.staticaly.com/gh/tvba/j61/main/608_sj_36_bk.txt;md5;065C92F7720FA01E64086455D201CFE1"},
+"spider":"https://ml5177.github.io/220618.jar",
+
 "lives": [{ "group": "redirect", "channels": 
 [{"name": "live","urls": [
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly93ZHMuZWNzeHMuY29tLzIyNDM1MC50eHQ="]}]}], 
