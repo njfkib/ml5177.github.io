@@ -1,6 +1,15 @@
 {
   "wallpaper":"https://picsum.photos/1280/720/?blur=10",
   "sites": [
+     {
+      "key": "csp_77",
+      "name": "🎬77(SP)",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "腾讯官网",
       "name": "腾讯官网",
@@ -51,15 +60,6 @@
       "name": "🍎小苹果(SP)",
       "type": 3,
       "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_77",
-      "name": "🎬77(SP)",
-      "type": 3,
-      "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -144,7 +144,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "网上自己找XBIUBIU"
+      "ext": "https://raw.githubusercontent.com/ml5177/yuan/main/MeowXB/乐猪影视.json"
     },
     {
       "key": "csp_biubiu_lgyy",
@@ -154,7 +154,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "网上自己找XBIUBIU"
+      "ext": "https://raw.githubusercontent.com/ml5177/yuan/main/MeowXB/蓝光影院.json"
     },
     {
       "key": "csp_biubiu_555",
@@ -164,7 +164,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "网上自己找XBIUBIU"
+      "ext": "https://raw.githubusercontent.com/ml5177/yuan/main/MeowXB/555.json"
     },
     {
       "key": "v2_团夕",
@@ -184,7 +184,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "网上自己找XPATH"
+      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXP/huya.json"
     },
     {
       "key": "csp_xpath_hdmoli",
